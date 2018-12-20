@@ -3,3 +3,7 @@
 ################################################################################
 
 /ConsoleLogAnalyser/bin
+/ConsoleLogAnalyser/obj
+/LogAnalyser/.vs/LogAnalyser
+/LogAnalyser/bin
+/LogAnalyser/obj
