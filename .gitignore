@@ -3,6 +3,7 @@
 ################################################################################
 
 /ConsoleLogAnalyser/bin
+/ConsoleLogAnalyser/Properties/launchSettings.json
 /ConsoleLogAnalyser/obj
 /LogAnalyser/.vs/LogAnalyser
 /LogAnalyser/bin
