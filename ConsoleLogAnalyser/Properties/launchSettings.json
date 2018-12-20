@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "ConsoleLogAnalyser": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\Users\\nikol\\OneDrive\\Διάφορα Έγγραφα\\Δουλειά\\Ε.Ε\\I'm there\\Logs\""
-    }
-  }
-}

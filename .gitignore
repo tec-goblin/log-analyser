@@ -7,3 +7,5 @@
 /LogAnalyser/.vs/LogAnalyser
 /LogAnalyser/bin
 /LogAnalyser/obj
+*.suo
+/.vs/config/applicationhost.config
