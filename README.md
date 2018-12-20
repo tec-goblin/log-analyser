@@ -2,7 +2,7 @@
 A tool to extract statistics from apache-like http logs. It is not a library, but it's structured in a way that should be easy for you to adapt for your own needs.
 ## Who is it for
 Practically me, or anyone else who, due to an organisational accident, cannot have their logs in a proper service like Kinbana or Azure Application Insights, and has to parse them with in-house tools.
-## How to Use It
+## How to use it
 The *ConsoleLogAnalyser* project is just a very simple exe to test and run the tool.  
 All the logic is in the *LogAnalyser* project, which is a **.NET Standard** library, so it could be used in most OSes and many flavours of .NET (in our case, it's designed to be called by a legacy WinForms application which presents the different search options and results).  
 The project uses preview features of C#8 (strict nulls and range operators). You can already [use them now](https://blogs.msdn.microsoft.com/dotnet/2018/12/05/take-c-8-0-for-a-spin/).
